@@ -1,0 +1,1 @@
+export { MyWorldMap } from "./MyWorldMap";
