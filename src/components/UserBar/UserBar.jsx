@@ -1,17 +1,37 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { StyledUserBar } from './styled';
+import { useDispatch,useSelector} from "react-redux";
+import { loadUser, selectUserName } from '../../redux/features/userApiSlice';
+import flagIcon from "../../assets/flagIcone.png";
 
 function UserBar() {
+    const dispatch = useDispatch();
+    const userName = useSelector(selectUserName)
+    useEffect(() => {
+        dispatch(loadUser())
+    }, [])
+    console.log(userName)
   return (
       <StyledUserBar>
           <ul>
-              <li>
-                  <img src="" alt="" width="36" height="24"/>
+              <li className='li1'>
+              <img src='' alt="" width="36" height="24"/>
               </li>
-              <li>En</li>
-              <li>
-                  <img src="" alt="" width="56" height="56" />
-                  Last Login:Thu Mar 20 2014
+              <li className='li2'>
+                  <img src={flagIcon} alt="" width="22" height="16" />
+                  EN
+              </li>
+              <li className='li3'>
+              {
+                userName.results?.map((user) => {      
+                    return (
+                      <React.Fragment key={`id${Math.random()}`}>
+                            <img  className='userImage' src={user.picture.large} alt="" width="56" height="56" />
+                            <h4 >Hello, {user.name.first}</h4> 
+                        </React.Fragment>
+                     )
+                  })    
+                }
               </li>
           </ul>
     </StyledUserBar>
