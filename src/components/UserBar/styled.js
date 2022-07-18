@@ -16,6 +16,7 @@ export const StyledUserBar = styled.div`
         flex: 6;
         display: flex;
         align-items: center;
+        margin-left: 72px;
     }
 
     .li2{

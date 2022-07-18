@@ -17,4 +17,10 @@ export const StyledUserTable = styled.div`
        border-left: 0.2px solid black;
        padding: 12px 25px;
    }
+   @media only screen and (max-width: 480px) {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 1px;
+           
+    }
 `;

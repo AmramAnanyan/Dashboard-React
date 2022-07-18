@@ -7,6 +7,8 @@ export const StyledGraphicBar = styled.div`
         display: flex;
         background-color: #282626;
 
+
+
         .lineGraph{
             flex:4;
            
@@ -21,5 +23,9 @@ export const StyledGraphicBar = styled.div`
            background-color: inherit;
         }
 
-
+       @media only screen and (max-width: 480px) {
+            display: flex;
+            flex-direction: column;
+            margin-bottom: 440px;
+    }
 `;

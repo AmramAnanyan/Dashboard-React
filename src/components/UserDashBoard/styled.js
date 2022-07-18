@@ -6,4 +6,9 @@ export const StyledUseerDashBoard = styled.div`
         div{
             flex: 1;
         }
+        @media only screen and (max-width: 480px) {
+                display: flex;
+                flex-direction: column;
+                margin-left: 0;
+    }
 `;

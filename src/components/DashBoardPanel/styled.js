@@ -24,5 +24,10 @@ export const StyledDashBoardPanel = styled.div`
            justify-content: center;
            align-items: center;
         }
+        @media only screen and (max-width: 480px) {
+                display: flex;
+                flex-direction: column;
+                border: none;
+    }
 
 `;

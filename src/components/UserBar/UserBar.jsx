@@ -3,6 +3,7 @@ import { StyledUserBar } from './styled';
 import { useDispatch,useSelector} from "react-redux";
 import { loadUser, selectUserName } from '../../redux/features/userApiSlice';
 import flagIcon from "../../assets/flagIcone.png";
+import indetIcone from "../../assets/indentIcone.png";
 
 function UserBar() {
     const dispatch = useDispatch();
@@ -15,7 +16,7 @@ function UserBar() {
       <StyledUserBar>
           <ul>
               <li className='li1'>
-              <img src='' alt="" width="36" height="24"/>
+              <img src={indetIcone} alt="" width="36" height="24"/>
               </li>
               <li className='li2'>
                   <img src={flagIcon} alt="" width="22" height="16" />

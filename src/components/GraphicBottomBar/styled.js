@@ -14,7 +14,10 @@ export const StyledGraphicBottomBar = styled.div`
             border-left: 0.2px solid gray;
             flex: 1;
         }
-        
+        @media only screen and (max-width: 480px) {
+          font-size: 20px;
+          margin-bottom: 38px;
+    }
         
 `;
 
