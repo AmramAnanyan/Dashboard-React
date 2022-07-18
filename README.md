@@ -20,3 +20,10 @@
 
 Full Dashboard clicks,views and signups mobile view 480px and 900px.
 Generate random user every refresh.
+
+
+<img src="./src/assets/s1.png" width="400" height="500"/>
+
+---
+
+<img src="./src/assets/s1.png" width="600" height="300"/>
