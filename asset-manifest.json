@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AmramAnanyan/Dashboard-React/static/css/main.c7ec3132.css",
+    "main.js": "/AmramAnanyan/Dashboard-React/static/js/main.b0f959f8.js",
+    "static/js/787.545aecf5.chunk.js": "/AmramAnanyan/Dashboard-React/static/js/787.545aecf5.chunk.js",
+    "static/media/menu7.svg": "/AmramAnanyan/Dashboard-React/static/media/menu7.ce97f8c740b6c1bfd0af2c5155ef9f72.svg",
+    "static/media/menu1.svg": "/AmramAnanyan/Dashboard-React/static/media/menu1.63d242692a028fcab13059d48b832511.svg",
+    "static/media/menu8.svg": "/AmramAnanyan/Dashboard-React/static/media/menu8.d2558728157542d34450292495d24e4f.svg",
+    "index.html": "/AmramAnanyan/Dashboard-React/index.html",
+    "static/media/menu3.svg": "/AmramAnanyan/Dashboard-React/static/media/menu3.e25edbeed103d6fbe4aee90029845803.svg",
+    "static/media/menu10.svg": "/AmramAnanyan/Dashboard-React/static/media/menu10.1bfeb7ef41a3f4f44c03007d41abac56.svg",
+    "static/media/menu9.svg": "/AmramAnanyan/Dashboard-React/static/media/menu9.ea82664945d286c791495eb907b68a4f.svg",
+    "static/media/menu2.svg": "/AmramAnanyan/Dashboard-React/static/media/menu2.364eb9dd78e048fad047d356e3de6e2c.svg",
+    "static/media/question.svg": "/AmramAnanyan/Dashboard-React/static/media/question.4bb3c3f9ba0bbffd9c00cd514e3db025.svg",
+    "static/media/money.svg": "/AmramAnanyan/Dashboard-React/static/media/money.048daf3008a4a64eb03426ed70064f29.svg",
+    "static/media/menu4.svg": "/AmramAnanyan/Dashboard-React/static/media/menu4.f948cfb194b1a86805ae19fa39abba6f.svg",
+    "static/media/menu5.svg": "/AmramAnanyan/Dashboard-React/static/media/menu5.c8b20905746a21e706d34c73d81c35b1.svg",
+    "static/media/monitoringChart.svg": "/AmramAnanyan/Dashboard-React/static/media/monitoringChart.56af56ebee6e50a4c7f22127901bf6f6.svg",
+    "static/media/menu6.svg": "/AmramAnanyan/Dashboard-React/static/media/menu6.2c7363763bb0552397f9a4797f35a9d6.svg",
+    "static/media/done.svg": "/AmramAnanyan/Dashboard-React/static/media/done.a4ac0222a6dfdf6521c50d7cbed2e682.svg",
+    "main.c7ec3132.css.map": "/AmramAnanyan/Dashboard-React/static/css/main.c7ec3132.css.map",
+    "main.b0f959f8.js.map": "/AmramAnanyan/Dashboard-React/static/js/main.b0f959f8.js.map",
+    "787.545aecf5.chunk.js.map": "/AmramAnanyan/Dashboard-React/static/js/787.545aecf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.b0f959f8.js"
+  ]
+}
