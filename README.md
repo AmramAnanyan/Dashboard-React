@@ -25,5 +25,7 @@ Generate random user every refresh.
 <img src="./src/assets/s1.png" width="400" height="500"/>
 
 ---
-
+ 
 <img src="./src/assets/s2.png" width="1000" height="600"/>
+
+---
