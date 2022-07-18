@@ -28,4 +28,20 @@ export const StyledGraphicBar = styled.div`
             flex-direction: column;
             margin-bottom: 440px;
     }
+
+    @media screen and (max-width: 900px) {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 770px;
+        .lineGraph{
+            flex: 3;
+        }
+        .pieGraph{
+            flex: 2;
+        }
+        .worldMap{
+            flex: 1;
+        }
+       
+}
 `;

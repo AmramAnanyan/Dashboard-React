@@ -11,4 +11,11 @@ export const StyledUseerDashBoard = styled.div`
                 flex-direction: column;
                 margin-left: 0;
     }
+    @media screen and (max-width: 900px){
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        margin-left: 0;
+    }
+    
 `;

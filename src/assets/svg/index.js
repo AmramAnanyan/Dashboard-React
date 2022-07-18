@@ -9,7 +9,9 @@ import menu4 from "../svg/menu4.svg";
 import menu5 from "../svg/menu5.svg";
 import menu6 from "../svg/menu6.svg";
 import menu7 from "../svg/menu7.svg";
-
+import menu8 from "../svg/menu8.svg";
+import menu9 from "../svg/menu9.svg";
+import menu10 from "../svg/menu10.svg";
 
 export {
     moneyIcone,
@@ -22,5 +24,8 @@ export {
     menu4,
     menu5,
     menu6,
-    menu7
+    menu7,
+    menu8,
+    menu9,
+    menu10,
 };

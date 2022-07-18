@@ -1,6 +1,6 @@
 import React from 'react'
 import { MenuLogo, StyledImageIcone, StyledMenuBar } from './styled';
-import { menu1,menu2,menu3,menu4,menu5,menu6,menu7 } from '../../assets/svg';
+import { menu1,menu2,menu3,menu4,menu5,menu6,menu7,menu8,menu9,menu10 } from '../../assets/svg';
 
 function MenuBar() {
   return (
@@ -15,7 +15,11 @@ function MenuBar() {
         <StyledImageIcone src={menu6} />
         <StyledImageIcone src={menu7} />
       </div>
-      <div className='div2'></div>
+      <div className='div2'>
+        <StyledImageIcone src={menu8} padding="14px" border="1px solid grey"/>
+        <StyledImageIcone src={menu9} padding="14px" border="1px solid grey"/>
+        <StyledImageIcone src={menu10} padding="14px" border="1px solid grey"/>
+      </div>
     </StyledMenuBar>
   )
 }

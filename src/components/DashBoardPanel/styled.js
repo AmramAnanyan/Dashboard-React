@@ -24,6 +24,11 @@ export const StyledDashBoardPanel = styled.div`
            justify-content: center;
            align-items: center;
         }
+        h3{
+            color: gray;
+            font-family: sans-serif;
+            letter-spacing: 1px;
+        }
         @media only screen and (max-width: 480px) {
                 display: flex;
                 flex-direction: column;

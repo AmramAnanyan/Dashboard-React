@@ -13,5 +13,13 @@ export const StyledDashboard = styled.div`
             margin: 1px;
             min-height: 2400px;
     }
+    @media screen and (max-width: 900px){
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            border: none;
+            margin: 1px;
+            min-height: 2400px;
+    }
    
 `;

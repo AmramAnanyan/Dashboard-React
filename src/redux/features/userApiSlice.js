@@ -29,7 +29,7 @@ export function getUser(newUser) {
 }
 
 export function loadUser() {
-    return (dispacth, getState) => {
+    return (dispacth) => {
         return loadRandomUser().then((users) => {
             return users.json();
         }).then((user) => {
