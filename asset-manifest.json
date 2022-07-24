@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dashboard-React/static/css/main.c7ec3132.css",
-    "main.js": "/Dashboard-React/static/js/main.199f01a7.js",
+    "main.js": "/Dashboard-React/static/js/main.7944f07f.js",
     "static/js/787.545aecf5.chunk.js": "/Dashboard-React/static/js/787.545aecf5.chunk.js",
     "static/media/menu7.svg": "/Dashboard-React/static/media/menu7.ce97f8c740b6c1bfd0af2c5155ef9f72.svg",
     "static/media/menu1.svg": "/Dashboard-React/static/media/menu1.63d242692a028fcab13059d48b832511.svg",
@@ -19,11 +19,11 @@
     "static/media/menu6.svg": "/Dashboard-React/static/media/menu6.2c7363763bb0552397f9a4797f35a9d6.svg",
     "static/media/done.svg": "/Dashboard-React/static/media/done.a4ac0222a6dfdf6521c50d7cbed2e682.svg",
     "main.c7ec3132.css.map": "/Dashboard-React/static/css/main.c7ec3132.css.map",
-    "main.199f01a7.js.map": "/Dashboard-React/static/js/main.199f01a7.js.map",
+    "main.7944f07f.js.map": "/Dashboard-React/static/js/main.7944f07f.js.map",
     "787.545aecf5.chunk.js.map": "/Dashboard-React/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
-    "static/js/main.199f01a7.js"
+    "static/js/main.7944f07f.js"
   ]
 }
